@@ -1,3 +1,11 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pverma911/pverma911/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pverma911/pverma911/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pverma911/pverma911/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <h1 align="center">Hi 👋, I'm Pranshu</h1>
 <h3 align="center">🚀 Full Stack Developer specializing in JavaScript, Java, and Go | Building impactful software across the stack</h3>
 <h4 align="center">From scalable backend systems to polished frontends — I turn complex ideas into seamless experiences.</h4>
