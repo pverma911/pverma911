@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranshu</h1>
-<h3 align="center">I am a Full Stack Developer who specializes in Javascript technologies,Java and GO across the whole stack(Node.js, React, React Native, Spring Boot, Gin). Experience building complete web applications with backend APIs with MongoDB and SQL databases and Frontends using React and React Native. I am adept at contributing to a highly collaborative work environment, finding solutions and determining customer satisfaction. I am motivated by the opportunity that software provides to positively impact the life of an individual, and the world as a whole.</h3>
+<h3 align="center">🚀 Full Stack Developer specializing in JavaScript, Java, and Go | Building impactful software across the stack</h3>
+<h4 align="center">From scalable backend systems to polished frontends — I turn complex ideas into seamless experiences.</h4>
+
 
 - 🔭 I’m currently working on [DineSync](https://github.com/pverma911/DineSync-gin)
 
