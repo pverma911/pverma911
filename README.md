@@ -11,7 +11,12 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hE7ArwmBKL4kXfTB8o43PysXDzcf1fc3/view?usp=sharing](https://drive.google.com/file/d/1hE7ArwmBKL4kXfTB8o43PysXDzcf1fc3/view?usp=sharing)
 
-- ⚡ Fun fact **🌟 Favorite code editor: VS Code (because extensions are life), 🧹 Believe in clean commits and prettier code — readability first!, ☕ Can’t function before my morning coffee (and a good debugging session), ✈️ Dream travel destination: Tokyo, for tech and ramen adventures, 🌐 Love working with APIs that connect different worlds — data integration is fun**
+- ⚡ Fun facts ** 
+🌟 Favorite code editor: VS Code (because extensions are life), 
+🧹 Believe in clean commits and prettier code — readability first!
+☕ Can’t function before my morning coffee (and a good debugging session)
+✈️ Dream travel destination: Tokyo, for tech and ramen adventures, 
+🌐 Love working with APIs that connect different worlds — data integration is fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
