@@ -1,8 +1,11 @@
+## 🕹️ Pacman Contribution Graph
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pverma911/pverma911/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pverma911/pverma911/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pverma911/pverma911/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pverma911/pverma911/output/pacman-contribution-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pverma911/pverma911/output/pacman-contribution-light.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/pverma911/pverma911/output/pacman-contribution-light.svg">
 </picture>
+
 
 ###
 
