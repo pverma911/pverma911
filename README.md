@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hE7ArwmBKL4kXfTB8o43PysXDzcf1fc3/view?usp=sharing](https://drive.google.com/file/d/1hE7ArwmBKL4kXfTB8o43PysXDzcf1fc3/view?usp=sharing)
 
-- ⚡ Fun facts:
+- ⚡ Fun facts about me:
   - 🌟 Favorite code editor: VS Code (because extensions are life)  
   - 🧹 Believe in clean commits and prettier code — readability first!  
   - ☕ Can’t function before my morning coffee (and a good debugging session)  
