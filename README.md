@@ -1,5 +1,3 @@
-## 🕹️ Pacman Contribution Graph
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pverma911/pverma911/output/pacman-contribution-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pverma911/pverma911/output/pacman-contribution-light.svg">
