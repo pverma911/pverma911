@@ -5,7 +5,13 @@
 
 - 🌱 I’m currently learning **Cloud-Native DevOps, Bun, Polyglot Persistence and more**
 
-- 💬 Ask me about **Building scalable backend systems with Node.js, Go, and Spring Boot, Crafting resilient REST APIs with versioning, auth, pagination & rate-limiting, Structuring microservices with async messaging (RabbitMQ/Kafka), Designing robust RBAC/ABAC access control systems, Writing clean, modular, and testable code in TypeScript, Go, and Java.**
+- 💬 Ask me about:
+  - 🏗️ Building **scalable backend systems** with Node.js, Go, and Spring Boot  
+  - 🔐 Crafting **resilient REST APIs** with versioning, authentication, pagination & rate-limiting  
+  - 🧩 Structuring **microservices** with async messaging (RabbitMQ / Kafka)  
+  - 🛡️ Designing robust **RBAC/ABAC access control systems**  
+  - 🧼 Writing **clean, modular, and testable code** in TypeScript, Go, and Java  
+
 
 - 📫 How to reach me **📧 [verma.pranshu689@gmail.com](mailto:verma.pranshu689@gmail.com), 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/pranshuverma-sde/)**
 
@@ -21,8 +27,6 @@
   - 📊 Passionate about data — analyzing logs is like reading a mystery novel  
   - 🐱‍👤 Stealth coder: I write code mostly at night when the world is quiet  
   - 💡 I believe every problem has a clever hack waiting to be discovered  
-  - 📦 Have an ongoing “npm package” side project (and it’s my digital baby)  
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
