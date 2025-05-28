@@ -44,6 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pverma911&show_icons=true&locale=en&layout=compact" alt="pverma911" />
 </div>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pverma911" alt="GitHub Streak" /></a>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pverma911&" alt="pverma911" /></p> -->
 
 <img src="https://raw.githubusercontent.com/pverma911/pverma911/output/snake.svg" alt="Snake animation" />
