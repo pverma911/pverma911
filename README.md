@@ -42,7 +42,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pverma911&show_icons=true&locale=en&layout=compact" alt="pverma911" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pverma911&" alt="pverma911" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pverma911" alt="pverma911" /></p>
 
 <img src="https://raw.githubusercontent.com/pverma911/pverma911/output/snake.svg" alt="Snake animation" />
 
