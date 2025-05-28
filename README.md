@@ -44,5 +44,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pverma911&" alt="pverma911" /></p>
 
-<img src="https://raw.githubusercontent.com/pverma911/pverma911/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pverma911/pverma911/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pverma911/pverma911/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pverma911/pverma911/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
