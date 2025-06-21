@@ -1,7 +1,7 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Pranshu</h1>
-<h3 align="center">🚀 Full Stack Developer specializing in JavaScript, TypeScript, Java, and Go | Building impactful software across the stack</h3>
+<h3 align="center">🚀 Full Stack Developer specializing in JavaScript, TypeScript, Go and Java | Building impactful software across the stack</h3>
 <h4 align="center">From scalable backend systems to polished frontends — I turn complex ideas into seamless experiences.</h4>
 
 
