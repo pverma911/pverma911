@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **📧 [verma.pranshu689@gmail.com](mailto:verma.pranshu689@gmail.com), 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/pranshuverma-sde/)**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hE7ArwmBKL4kXfTB8o43PysXDzcf1fc3/view?usp=sharing](https://drive.google.com/file/d/1hE7ArwmBKL4kXfTB8o43PysXDzcf1fc3/view?usp=sharing)
+- 📄 Know about my experiences [**HERE**](https://drive.google.com/file/d/18ITUSJT9h26hRO7S73dYx0J2XAV-ewh6/view?usp=sharing)
 
 - ⚡ Fun facts about me:
   - 🌟 Favorite code editor: VS Code (because extensions are life)  
